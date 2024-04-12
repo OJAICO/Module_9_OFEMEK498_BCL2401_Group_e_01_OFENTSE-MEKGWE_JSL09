@@ -1,6 +1,3 @@
-Sure, here's a README for your code:
-
----
 
 # Weather and Crypto Dashboard
 
@@ -39,10 +36,8 @@ Hey there! Welcome to my Weather and Crypto Dashboard. This dashboard is a small
 
 ## About Me
 
-Hi, I'm [Your Name], a software developing student with a passion for creating cool stuff with code. This project is a result of my learning journey, and I'm excited to share it with you!
+Hi, I'm Ofentse Mekgwe, a software developing student with a passion for creating cool stuff with code. This project is a result of my learning journey, and I'm excited to share it with you!
 
 Feel free to reach out if you have any questions or feedback. Happy coding! 🚀
+ofentsemekgwe911@gmail.com
 
---- 
-
-Feel free to adjust the content as needed!
